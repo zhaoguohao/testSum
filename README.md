@@ -42,4 +42,5 @@ Hello `World`
 >>>>>>>小草
 
 ![啦啦啦](http://pic75.nipic.com/file/20150821/9448607_145742365000_2.jpg "嗨,不要戳我鼻子昂")
+![啦啦啦](https://github.com/zhaoguohao/testSum/raw/master/Pic/135s_icon.jpg "昂")
 

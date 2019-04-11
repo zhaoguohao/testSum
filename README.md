@@ -21,6 +21,14 @@ https://github.com/zhaoguohao/testSum
      来到我的文档
 Hello `World`
 
+```diff
++新增
+-新🗡
+```
+```C#
+int a;
+```
+
 [我的项目](https://github.com/zhaoguohao/testSum)
 
 [我的项目](https://github.com/zhaoguohao/testSum "点击进入")

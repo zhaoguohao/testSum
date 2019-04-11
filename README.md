@@ -67,3 +67,8 @@ int a;
 
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度Logo")
 
+
+
+[![](https://github.com/zhaoguohao/Picture-library/raw/master/JPG/181mypic.jpg "可链接到百度")](https://www.Baidu.com)
+
+

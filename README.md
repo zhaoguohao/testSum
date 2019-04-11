@@ -41,6 +41,15 @@ Hello `World`
 >>>>>>草
 >>>>>>>小草
 
+     MARKDOWN语法
+     
+     
+ `Start`
+~~[百度](http://www.baidu.com "百度")
+![](Https://www.baidu.com/img/bd_logo1.png?where=super "百度")
+[![](Https://www.baidu.com/img/bd_logo1.png?where=super "百度")](http://www.baidu.com)~~
+`End`
+
 ![啦啦啦](http://pic75.nipic.com/file/20150821/9448607_145742365000_2.jpg "嗨,不要戳我鼻子昂")
 
 ![baidu](https://github.com/zhaoguohao/testSum/raw/master/Pic/135s_icon.jpg "昂")
